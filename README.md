@@ -1,5 +1,7 @@
 # ⚡ Modern Password Generator
 
+![Picture](./strongPasswordGenerator.png)
+
 A sleek, minimalist, and real-time password generator built with single-file HTML, CSS, and JavaScript. 
 
 No "Generate" button needed—the app updates your password instantly as you change the length or toggle criteria.
