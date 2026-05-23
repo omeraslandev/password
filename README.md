@@ -34,7 +34,3 @@ You can customize your password with the following real-time options:
 - **Lowercase Letters:** `a-z`
 - **Numbers:** `0-9`
 - **Symbols:** `!@#$%^&*()`
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
